@@ -66,10 +66,6 @@ You don't need to. Kinema checks for a new version at startup, downloads it in t
 **Where is my data stored?**
 Settings, favorites, history and downloads stay on your PC in `%LOCALAPPDATA%\Kinema`.
 
-## Feedback
-
-Found a bug or have an idea? Write to **kinema-app@proton.me**.
-
 ## Disclaimer
 
 Kinema does not host, upload or distribute any video content. It shows publicly available metadata and plays media from sources that you choose. You are responsible for complying with the copyright laws of your country.
