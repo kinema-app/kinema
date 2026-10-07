@@ -5,6 +5,8 @@
 [![Download for Windows](https://img.shields.io/badge/Download-Kinema.exe-orange?style=for-the-badge&logo=windows)](https://github.com/kinema-app/kinema/releases/latest/download/Kinema.exe)
 [![Latest release](https://img.shields.io/github/v/release/kinema-app/kinema?style=for-the-badge)](https://github.com/kinema-app/kinema/releases/latest)
 
+![Kinema home page with popular movies and TV shows](docs/screenshot-home.jpg)
+
 One portable `.exe`, no installer, no account, no ads. Kinema updates itself automatically.
 
 ## Features
