@@ -16,6 +16,7 @@ One portable `.exe`: no installer, no account, no ads. Updates itself.
 - **Watch** — online sources with a choice of voice-over and quality, or torrents streamed while they download
 - **Continue watching**, favorites and history; notifications when a new episode or movie comes out
 - **Player** — HDR with automatic display switching, chapters with intro and credits, black bar removal, volume normalization, sleep timer, picture-in-picture, auto-play of the next episode
+- **Multi-device audio** — play sound on two or more devices at once, with the same or a different audio track on each (e.g. two headphones, two voice-overs)
 - **Smooth motion** — frame interpolation up to your display's refresh rate (key **I**), or via Lossless Scaling
 - **Cast to TV** — Chromecast, Android TV, Google TV and DLNA
 - **Offline downloads**
